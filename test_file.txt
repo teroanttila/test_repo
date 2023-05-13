@@ -1,3 +1,5 @@
+This is a test line added in local file.
+
 This is a test file.
 
 1st modification.
